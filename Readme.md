@@ -5,7 +5,7 @@
 2. How to use pseudo classes
 
 ### Live Link
-[Home](https://restaurant02.netlify.app/)
+[Home](https://letsbuildbettertomorrow.netlify.app/)
 
 ![LCO](https://img.shields.io/badge/Ineuron-LCO-blue)
 
